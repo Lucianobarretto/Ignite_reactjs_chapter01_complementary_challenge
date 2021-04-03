@@ -1,8 +1,10 @@
 # <h2 align="center">Ignite Complementary Challenge (Trail ReactJS - Chapter I)</h2>
 
-<h2 align="center">Complementary Challenge 01 - React Concepts (Rocketseat)</h2>
+<h3 align="center">Complementary Challenge 01 - React Concepts (Rocketseat)</h3>
 
-## 📑 Sobre o Desafio
+<br>
+
+### 📑 Sobre o Desafio
 <p>A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes; 
 utilizando o MirageJS para simular uma API como nos dados das transações da aplicação dt.money; 
 também o JSON Server para simular uma API que possui as informações de gêneros e filmes. :octocat:</p>
