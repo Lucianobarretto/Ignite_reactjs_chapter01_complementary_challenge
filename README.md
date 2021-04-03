@@ -1,4 +1,4 @@
-# <h1 align="center">Ignite Complementary Challenge (Trail ReactJS - Chapter I)</h1>
+# <h2 align="center">Ignite Complementary Challenge (Trail ReactJS - Chapter I)</h2>
 
 <h2 align="center">Complementary Challenge 01 - React Concepts (Rocketseat)</h2>
 
@@ -35,7 +35,7 @@ também o JSON Server para simular uma API que possui as informações de gêner
 
 
 <p align="center">  
-  <a href="https://github.com/Lucianobarretto/Ignite_reactjs_chapter01_complementary_challenge/blob/main/LICENSE">
+  <a href="https://github.com/Lucianobarretto/Ignite_reactjs_chapter01_complementary_challenge/blob/main/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-orange">
   </a>
 </p>
