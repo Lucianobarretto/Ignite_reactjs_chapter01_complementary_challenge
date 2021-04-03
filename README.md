@@ -15,10 +15,14 @@ também o JSON Server para simular uma API que possui as informações de gêner
 * 2º: A primeira categoria da lista (que é "Ação") já deve começar como marcada ✔
 * 3º: O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente. ✔
 
+<br>
+
 <h2 align="center">WatchMe</h2>
 <p align="center">
   <kbd><img align="center" src="watchme.png" width="800"/></kbd>
 </p>
+
+<br>
 
 <h3 align="center">#Turma_01 - Front-end Developer N/A0110629</h3>
 
