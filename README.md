@@ -6,8 +6,8 @@
 
 ### 📑 Sobre o Desafio
 <p>A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes; 
-utilizando o MirageJS para simular uma API como nos dados das transações da aplicação dt.money; 
-também o JSON Server para simular uma API que possui as informações de gêneros e filmes. :octocat:</p>
+como utilizado o MirageJS para simular uma API com os dados das transações da aplicação dt.money; 
+aqui utilizaremos o JSON Server para simular uma API que possui as informações de gêneros e filmes. :octocat:</p>
 
 <p>É uma aplicação de listagem de filmes, onde foi colocado em prática os conceitos:</p>
 
