@@ -6,7 +6,7 @@
 
 ### 📑 Sobre o Desafio
 <p>A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes; 
-como utilizado o MirageJS para simular uma API com os dados das transações da aplicação dt.money; 
+  como utilizado o MirageJS para simular uma API com os dados das transações da aplicação <a href="https://github.com/Lucianobarretto/Ignite_reactjs_dtmoney">dt.money</a>; 
 aqui utilizaremos o JSON Server para simular uma API que possui as informações de gêneros e filmes. :octocat:</p>
 
 <p>É uma aplicação de listagem de filmes, onde foi colocado em prática os conceitos:</p>
